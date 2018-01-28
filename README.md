@@ -7,13 +7,14 @@ In this project, your goal is to write a software pipeline to identify the lane 
 ## As a suggestion, the README.md file for each repository can include the following information:
 ### a list of files contained in the repository with a brief description of each file
 1. examples (A directory containing example images)
-2. output_images (A directory containing generated images)
-3. test_videos_output (A directory containing generated video)
-4. Advanced_Lane_Lines.html (Generated HTML format for review)
-5. Advanced_Lane_Lines.ipynb (Source code for visualization)
-6. helper_functions.py (Source code)
-7. README.md (Readme file)
-8. writeup.md (Writeup file)
+2. test_images (A directory containing test images)
+3. output_images (A directory containing generated images)
+4. test_videos_output (A directory containing generated video)
+5. Advanced_Lane_Lines.html (Generated HTML format for review)
+6. Advanced_Lane_Lines.ipynb (Source code for visualization)
+7. helper_functions.py (Source code)
+8. README.md (Readme file)
+9. writeup.md (Writeup file)
  
 ### any instructions someone might need for running your code
 1. Configure your conda environment with Udacity [CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
