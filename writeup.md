@@ -386,7 +386,7 @@ plt.imshow(convert_BGR2RGB(img))
 
 
 
-![png](output_28_1.png)
+![png](output_images/output_28_1.png)
 
 
 __Process each images__
