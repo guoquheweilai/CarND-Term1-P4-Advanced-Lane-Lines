@@ -207,7 +207,7 @@ fig.tight_layout()
 ```
 
 
-![png](output_13_0.png)
+![png](./output_images/output_13_0.png)
 
 
 __Save images__
@@ -239,7 +239,7 @@ for idx_row in range(table_2_row):
 ```
 
 
-![png](output_17_0.png)
+![png](./output_images/output_17_0.png)
 
 
 ## Pipeline (test images)
@@ -386,7 +386,7 @@ plt.imshow(convert_BGR2RGB(img))
 
 
 
-![png](output_images/output_28_1.png)
+![png](./output_images/output_28_1.png)
 
 
 __Process each images__
@@ -422,7 +422,7 @@ plt.subplots_adjust(left=0., right=1, top=0.9, bottom=0.)
 ```
 
 
-![png](output_32_0.png)
+![png](./output_images/output_32_0.png)
 
 
 __Save images__
@@ -570,7 +570,7 @@ plt.subplots_adjust(left=0., right=0.4, top=0.9, bottom=0.)
 ```
 
 
-![png](output_45_0.png)
+![png](./output_images/output_45_0.png)
 
 
 __Save images__
@@ -715,7 +715,7 @@ ax2.imshow(combined_binary, cmap='gray')
 
 
 
-![png](output_58_1.png)
+![png](./output_images/output_58_1.png)
 
 
 __Save images__
@@ -785,7 +785,7 @@ plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
 
 
 
-![png](output_68_1.png)
+![png](./output_images/output_68_1.png)
 
 
 
@@ -848,7 +848,7 @@ plt.plot([src_coordins[3][0], src_coordins[0][0]],[src_coordins[3][1], src_coord
 
 
 
-![png](output_70_1.png)
+![png](./output_images/output_70_1.png)
 
 
 __Save images__
@@ -898,7 +898,7 @@ plt.plot([dst_coordins[3][0], dst_coordins[0][0]],[dst_coordins[3][1], dst_coord
 
 
 
-![png](output_74_1.png)
+![png](./output_images/output_74_1.png)
 
 
 __Save images__
@@ -948,7 +948,7 @@ plt.plot([dst_coordins[3][0], dst_coordins[0][0]],[dst_coordins[3][1], dst_coord
 
 
 
-![png](output_78_1.png)
+![png](./output_images/output_78_1.png)
 
 
 __Save images__
@@ -998,7 +998,7 @@ plt.plot(histogram)
 
 
 
-![png](output_86_1.png)
+![png](./output_images/output_86_1.png)
 
 
 __Define Functions__
@@ -1114,7 +1114,7 @@ plt.ylim(720, 0)
 
 
 
-![png](output_95_1.png)
+![png](./output_images/output_95_1.png)
 
 
 __Save images__
@@ -1239,7 +1239,7 @@ plt.title('Plot polynomial back to image')
 
 
 
-![png](output_107_1.png)
+![png](./output_images/output_107_1.png)
 
 
 __Save images__
