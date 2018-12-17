@@ -1327,6 +1327,10 @@ HTML("""
 
 Here's a link to [my video result](./test_videos_output/project_video_output.mp4)
 
+## Videos
+Video recordings for success cases.  
+Success to plot lane lines on the curve road.  
+![Success_Run_Part1](./test_videos_output/project_video_output.gif)  
 
 ## Discussion
 Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
