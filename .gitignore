@@ -1,0 +1,13 @@
+.ipynb_checkpoints/*
+__pycache__/*
+camera_cal/*
+examples/*
+writeup_template.md
+writeup.zip
+writeup.md
+project_video.mp4
+Notes to reviewer.txt
+helper_functions_backup_try_to_use_line()_but_fail.py
+harder_challenge_video.mp4
+example_writeup.pdf
+challenge_video.mp4
